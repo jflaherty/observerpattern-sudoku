@@ -1,0 +1,1 @@
+Solve Sudoku, easy and medium ones, by applying observer pattern
